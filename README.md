@@ -6,11 +6,10 @@
   
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yfzhang114&show_icons=true&hide_title=false&count_private=true&hide=issues" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yfzhang114&layout=compact" alt="Yi-Fan's Github Stats" />
 </p>
 </details>
 <!--
-**wendili-cs/wendili-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yfzhang114/yfzhang114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
